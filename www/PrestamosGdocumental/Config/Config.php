@@ -1,5 +1,5 @@
 <?php
-const base_url = "http://localhost:8080/PrestamosGdocumental/";
+const base_url = "http://localhost:80/PrestamosGdocumental/";
 const host = "localhost";
 const user = "root";
 const pass = "rootpass";
